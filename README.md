@@ -9,4 +9,4 @@ You can add descriptions about the project itself.
 
 ## My GitHub Section
 
-This section was added to GitHub as practice. 
+This section was added to GitHub as practice. Editted locally
